@@ -1,0 +1,21 @@
+{
+  "name": "linkclick",
+  "version": "1.0.0",
+  "description": "1-on-1 real-time video conferencing web application with WebRTC and Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "webrtc",
+    "video-call",
+    "socket.io",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
